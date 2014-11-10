@@ -1,0 +1,14 @@
+/.classpath
+/.project
+/.settings
+/dist/
+/eclipse/
+/logs/
+/modules/*/commands.pyc
+/test-result/
+/tmp/
+/*.iml
+/*.ipr
+/*.iws
+*.bak
+*.swp

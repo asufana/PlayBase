@@ -1,0 +1,19 @@
+
+self: play -> PlayBase 0.1
+
+require:
+    - play -> play 1.2.5
+
+    # JodaTime for Hibernate
+    - joda-time -> joda-time-hibernate 1.3
+
+    # Lambda Function Utility
+    - com.googlecode.lambdaj -> lambdaj 2.3.3
+
+    # junit matcher
+    - org.hamcrest -> hamcrest-all 1.3
+
+    # Commons Lang 3
+    - org.apache.commons -> commons-lang3 3.1
+
+
