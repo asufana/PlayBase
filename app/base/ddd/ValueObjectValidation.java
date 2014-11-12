@@ -15,7 +15,7 @@ public class ValueObjectValidation {
     private final Object targetValueObject;
     
     /** コンストラクタ */
-    public ValueObjectValidation(final Object targetValueObject) {
+    ValueObjectValidation(final Object targetValueObject) {
         this.targetValueObject = targetValueObject;
     }
     
